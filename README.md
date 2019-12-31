@@ -1,2 +1,2 @@
 # lisp-exercises
-company with learning Practical Common Lisp
+Company with learning Practical Common Lisp
